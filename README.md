@@ -52,17 +52,7 @@ Allows users to slice and drill down into data across various dimensions:
 * **Formulas:** Dynamic KPI aggregations and calculated fields.
 * **Data Visualization & UI Design:** Customized color themes aligned with Adidas branding and UX best practices for interactive reports.
 
----
-
-## 📂 Project Structure
-```text
-├── Adidas_Sales_Dashboard.xlsx   # Main Excel dashboard workbook
-├── screenshots/                  # Preview images & screenshots
-│   └── dashboard_preview.png
-└── README.md                     # Project documentation
-```
-
----
+----
 
 ## 🖥️ How to Use
 1. Clone or download this repository:
